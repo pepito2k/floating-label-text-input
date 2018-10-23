@@ -1,0 +1,24 @@
+{
+  "name": "floating-label-text-input",
+  "version": "1.0.0",
+  "description": "Floating Label TextInput for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pepito2k/floating-label-text-input.git"
+  },
+  "keywords": [
+    "react-native",
+    "textinput",
+    "floating-label"
+  ],
+  "author": "Gonzalo Robaina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pepito2k/floating-label-text-input/issues"
+  },
+  "homepage": "https://github.com/pepito2k/floating-label-text-input#readme"
+}
